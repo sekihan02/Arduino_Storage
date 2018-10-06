@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mm_project current="0" serial_port="COM3" programmer="" board="Arduino Uno" includePaths="" libPaths="" srcPaths="" libs="" useCodeAutomation="1" linkPrintfVersion="9424188" serialPortSpeed="9600" isLibrary="29">
+<mm_project current="0" serial_port="COM3" programmer="" board="Arduino Uno" includePaths="" libPaths="" srcPaths="" libs="" useCodeAutomation="1" linkPrintfVersion="9424188" serialPortSpeed="9600" isLibrary="0">
     <files>
         <file name="Ltika.cpp" open="yes"/>
         <file name="mariamole_auto_generated.h" open="no"/>
