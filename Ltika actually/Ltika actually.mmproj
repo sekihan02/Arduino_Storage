@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mm_project current="1" serial_port="COM3" programmer="" board="Arduino Uno" includePaths="" libPaths="" srcPaths="" libs="" useCodeAutomation="1" linkPrintfVersion="9424188" serialPortSpeed="9600" isLibrary="0">
+<mm_project current="0" serial_port="COM3" programmer="" board="Arduino Uno" includePaths="" libPaths="" srcPaths="" libs="" useCodeAutomation="1" linkPrintfVersion="9424188" serialPortSpeed="9600" isLibrary="0">
     <files>
-        <file name="Ltika actually.cpp" open="yes"/>
-        <file name="mariamole_auto_generated.h" open="yes"/>
+        <file name="Ltika actually.cpp" open="no"/>
+        <file name="mariamole_auto_generated.h" open="no"/>
     </files>
     <externals/>
 </mm_project>
