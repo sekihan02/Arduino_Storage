@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mm_project current="0" serial_port="COM3" programmer="AVRISP mkII" board="Arduino Uno" includePaths="" libPaths="" srcPaths="" libs="" useCodeAutomation="1" linkPrintfVersion="16435324" serialPortSpeed="9600" isLibrary="0">
+    <files>
+        <file name="pro.cpp" open="no"/>
+        <file name="mariamole_auto_generated.h" open="no"/>
+    </files>
+    <externals/>
+</mm_project>
